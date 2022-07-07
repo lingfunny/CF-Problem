@@ -1,0 +1,651 @@
+[1697E. Coloring](https://codeforces.com/problemset/problem/1697/E) (\*2400)
+tags: brute force, combinatorics, constructive algorithms, dp, geometry, graphs, greedy, implementation, math
+
+[1695D2. Tree Queries (Hard Version)](https://codeforces.com/problemset/problem/1695/D2) (\*2300)
+tags: constructive algorithms, dfs and similar, dp, greedy, trees
+
+[1695D1. Tree Queries (Easy Version)](https://codeforces.com/problemset/problem/1695/D1) (\*2200)
+tags: brute force, constructive algorithms, dfs and similar, dp, greedy, trees
+
+[1689E. ANDfinity](https://codeforces.com/problemset/problem/1689/E) (\*2500)
+tags: bitmasks, brute force, constructive algorithms, dfs and similar, dsu, graphs
+
+[1673F. Anti-Theft Road Planning](https://codeforces.com/problemset/problem/1673/F) (\*2400)
+tags: bitmasks, constructive algorithms, divide and conquer, greedy, interactive, math
+
+[1672E. notepad.exe](https://codeforces.com/problemset/problem/1672/E) (\*2200)
+tags: binary search, constructive algorithms, greedy, interactive
+
+[1670E. Hemose on the Tree](https://codeforces.com/problemset/problem/1670/E) (\*2200)
+tags: bitmasks, constructive algorithms, dfs and similar, trees
+
+[1667C. Half Queen Cover](https://codeforces.com/problemset/problem/1667/C) (\*2400)
+tags: constructive algorithms, math
+
+[1666I. Interactive Treasure Hunt](https://codeforces.com/problemset/problem/1666/I) (\*2200)
+tags: brute force, constructive algorithms, geometry, interactive, math
+
+[1666E. Even Split](https://codeforces.com/problemset/problem/1666/E) (\*2500)
+tags: binary search, constructive algorithms, greedy, math
+
+[1659E. AND-MEX Walk](https://codeforces.com/problemset/problem/1659/E) (\*2200)
+tags: bitmasks, brute force, constructive algorithms, dfs and similar, dsu, graphs
+
+[1656E. Equal Tree Sums](https://codeforces.com/problemset/problem/1656/E) (\*2200)
+tags: constructive algorithms, dfs and similar, math, trees
+
+[1637F. Towers](https://codeforces.com/problemset/problem/1637/F) (\*2500)
+tags: constructive algorithms, dfs and similar, dp, greedy, trees
+
+[1635E. Cars](https://codeforces.com/problemset/problem/1635/E) (\*2200)
+tags: 2-sat, constructive algorithms, dfs and similar, dsu, graphs, greedy, sortings
+
+[1634E. Fair Share](https://codeforces.com/problemset/problem/1634/E) (\*2400)
+tags: constructive algorithms, data structures, dfs and similar, graph matchings, graphs
+
+[1630D. Flipping Range](https://codeforces.com/problemset/problem/1630/D) (\*2400)
+tags: constructive algorithms, dp, greedy, number theory
+
+[1628C. Grid Xor](https://codeforces.com/problemset/problem/1628/C) (\*2300)
+tags: constructive algorithms, greedy, implementation, interactive, math
+
+[1617D2. Too Many Impostors (hard version)](https://codeforces.com/problemset/problem/1617/D2) (\*2400)
+tags: constructive algorithms, implementation, interactive, math
+
+[1612G. Max Sum Array](https://codeforces.com/problemset/problem/1612/G) (\*2500)
+tags: combinatorics, constructive algorithms, greedy, sortings
+
+[1606D. Red-Blue Matrix](https://codeforces.com/problemset/problem/1606/D) (\*2400)
+tags: brute force, constructive algorithms, implementation, sortings
+
+[1594F. Ideal Farm](https://codeforces.com/problemset/problem/1594/F) (\*2400)
+tags: constructive algorithms, math
+
+[1593G. Changing Brackets](https://codeforces.com/problemset/problem/1593/G) (\*2200)
+tags: constructive algorithms, data structures, dp, greedy
+
+[1583F. Defender of Childhood Dreams](https://codeforces.com/problemset/problem/1583/F) (\*2500)
+tags: bitmasks, constructive algorithms, divide and conquer
+
+[1583E. Moment of Bloom](https://codeforces.com/problemset/problem/1583/E) (\*2200)
+tags: constructive algorithms, dfs and similar, graph matchings, graphs, greedy, trees
+
+[1574E. Coloring](https://codeforces.com/problemset/problem/1574/E) (\*2500)
+tags: combinatorics, constructive algorithms, implementation, math
+
+[1572B. Xor of 3](https://codeforces.com/problemset/problem/1572/B) (\*2500)
+tags: brute force, constructive algorithms, greedy, two pointers
+
+[1559D2. Mocha and Diana (Hard Version)](https://codeforces.com/problemset/problem/1559/D2) (\*2500)
+tags: brute force, constructive algorithms, dfs and similar, dsu, graphs, greedy, trees, two pointers
+
+[1552E. Colors and Intervals](https://codeforces.com/problemset/problem/1552/E) (\*2300)
+tags: constructive algorithms, data structures, greedy, sortings
+
+[1550D. Excellent Arrays](https://codeforces.com/problemset/problem/1550/D) (\*2300)
+tags: binary search, combinatorics, constructive algorithms, implementation, math, sortings, two pointers
+
+[1543D2. RPD and Rap Sheet (Hard Version)](https://codeforces.com/problemset/problem/1543/D2) (\*2200)
+tags: brute force, constructive algorithms, interactive, math
+
+[1539E. Game with Cards](https://codeforces.com/problemset/problem/1539/E) (\*2500)
+tags: binary search, constructive algorithms, data structures, dp, greedy, implementation
+
+[1537F. Figure Fixing](https://codeforces.com/problemset/problem/1537/F) (\*2200)
+tags: constructive algorithms, dfs and similar, dsu, graphs, greedy, math
+
+[1528D. It's a bird! No, it's a plane! No, it's AaParsa!](https://codeforces.com/problemset/problem/1528/D) (\*2500)
+tags: constructive algorithms, graphs, shortest paths
+
+[1526E. Oolimry and Suffix Array](https://codeforces.com/problemset/problem/1526/E) (\*2400)
+tags: combinatorics, constructive algorithms, math
+
+[1526D. Kill Anton](https://codeforces.com/problemset/problem/1526/D) (\*2200)
+tags: brute force, constructive algorithms, data structures, math, strings
+
+[1521D. Nastia Plays with a Tree](https://codeforces.com/problemset/problem/1521/D) (\*2500)
+tags: constructive algorithms, data structures, dfs and similar, dp, dsu, greedy, implementation, trees
+
+[1520F2. Guess the K-th Zero (Hard version)](https://codeforces.com/problemset/problem/1520/F2) (\*2200)
+tags: binary search, constructive algorithms, data structures, interactive
+
+[1513F. Swapping Problem](https://codeforces.com/problemset/problem/1513/F) (\*2500)
+tags: brute force, constructive algorithms, data structures, sortings
+
+[1513E. Cost Equilibrium](https://codeforces.com/problemset/problem/1513/E) (\*2300)
+tags: combinatorics, constructive algorithms, math, sortings
+
+[1495C. Garden of the Sun](https://codeforces.com/problemset/problem/1495/C) (\*2300)
+tags: constructive algorithms, graphs
+
+[1494E. A-Z Graph](https://codeforces.com/problemset/problem/1494/E) (\*2400)
+tags: constructive algorithms, data structures, graphs, hashing
+
+[1494D. Dogeforces](https://codeforces.com/problemset/problem/1494/D) (\*2300)
+tags: constructive algorithms, data structures, dfs and similar, divide and conquer, dsu, greedy, sortings, trees
+
+[1492E. Almost Fault-Tolerant Database](https://codeforces.com/problemset/problem/1492/E) (\*2500)
+tags: brute force, constructive algorithms, dfs and similar, greedy, implementation
+
+[1486E. Paired Payment](https://codeforces.com/problemset/problem/1486/E) (\*2200)
+tags: binary search, brute force, constructive algorithms, dp, flows, graphs, shortest paths
+
+[1485D. Multiples and Power Differences](https://codeforces.com/problemset/problem/1485/D) (\*2200)
+tags: constructive algorithms, graphs, math, number theory
+
+[1479C. Continuous City](https://codeforces.com/problemset/problem/1479/C) (\*2500)
+tags: bitmasks, constructive algorithms
+
+[1477C. Nezzar and Nice Beatmap](https://codeforces.com/problemset/problem/1477/C) (\*2200)
+tags: constructive algorithms, geometry, greedy, math, sortings
+
+[1474E. What Is It?](https://codeforces.com/problemset/problem/1474/E) (\*2500)
+tags: constructive algorithms, greedy
+
+[1470D. Strange Housing](https://codeforces.com/problemset/problem/1470/D) (\*2200)
+tags: constructive algorithms, dfs and similar, graph matchings, graphs, greedy
+
+[1470C. Strange Shuffle](https://codeforces.com/problemset/problem/1470/C) (\*2500)
+tags: binary search, brute force, constructive algorithms, interactive
+
+[1468H. K and Medians](https://codeforces.com/problemset/problem/1468/H) (\*2200)
+tags: constructive algorithms, greedy, math
+
+[1463E. Plan of Lectures](https://codeforces.com/problemset/problem/1463/E) (\*2400)
+tags: constructive algorithms, dfs and similar, dsu, graphs, implementation, sortings, trees
+
+[1455E. Four Points](https://codeforces.com/problemset/problem/1455/E) (\*2400)
+tags: brute force, constructive algorithms, flows, geometry, greedy, implementation, math, ternary search
+
+[1451E2. Bitwise Queries (Hard Version)](https://codeforces.com/problemset/problem/1451/E2) (\*2300)
+tags: bitmasks, constructive algorithms, interactive, math
+
+[1450F. The Struggling Contestant](https://codeforces.com/problemset/problem/1450/F) (\*2400)
+tags: constructive algorithms, greedy
+
+[1450C2. Errich-Tac-Toe (Hard Version)](https://codeforces.com/problemset/problem/1450/C2) (\*2300)
+tags: constructive algorithms, math
+
+[1438E. Yurii Can Do Everything](https://codeforces.com/problemset/problem/1438/E) (\*2500)
+tags: binary search, bitmasks, brute force, constructive algorithms, divide and conquer, two pointers
+
+[1438D. Powerful Ksenia](https://codeforces.com/problemset/problem/1438/D) (\*2200)
+tags: bitmasks, constructive algorithms, math
+
+[1437E. Make It Increasing](https://codeforces.com/problemset/problem/1437/E) (\*2200)
+tags: binary search, constructive algorithms, data structures, dp, implementation
+
+[1427E. Xum](https://codeforces.com/problemset/problem/1427/E) (\*2500)
+tags: bitmasks, constructive algorithms, math, matrices, number theory
+
+[1423J. Bubble Cup hypothesis](https://codeforces.com/problemset/problem/1423/J) (\*2400)
+tags: bitmasks, constructive algorithms, dp, math
+
+[1415E. New Game Plus!](https://codeforces.com/problemset/problem/1415/E) (\*2200)
+tags: constructive algorithms, greedy, math
+
+[1408F. Two Different](https://codeforces.com/problemset/problem/1408/F) (\*2300)
+tags: constructive algorithms, divide and conquer
+
+[1407E. Egor in the Republic of Dagestan](https://codeforces.com/problemset/problem/1407/E) (\*2500)
+tags: constructive algorithms, dfs and similar, dp, graphs, greedy, shortest paths
+
+[1406D. Three Sequences](https://codeforces.com/problemset/problem/1406/D) (\*2200)
+tags: constructive algorithms, data structures, greedy, math
+
+[1404C. Fixed Point Removal](https://codeforces.com/problemset/problem/1404/C) (\*2300)
+tags: binary search, constructive algorithms, data structures, greedy, two pointers
+
+[1392F. Omkar and Landslide](https://codeforces.com/problemset/problem/1392/F) (\*2400)
+tags: binary search, constructive algorithms, data structures, greedy, math
+
+[1384B2. Koa and the Beach (Hard Version)](https://codeforces.com/problemset/problem/1384/B2) (\*2200)
+tags: constructive algorithms, dp, greedy, implementation
+
+[1381C. Mastermind](https://codeforces.com/problemset/problem/1381/C) (\*2500)
+tags: constructive algorithms, graph matchings, greedy, implementation, sortings, two pointers
+
+[1375E. Inversion SwapSort](https://codeforces.com/problemset/problem/1375/E) (\*2500)
+tags: constructive algorithms, greedy, sortings
+
+[1374F. Cyclic Shifts Sorting](https://codeforces.com/problemset/problem/1374/F) (\*2400)
+tags: brute force, constructive algorithms, implementation, sortings
+
+[1373F. Network Coverage](https://codeforces.com/problemset/problem/1373/F) (\*2400)
+tags: binary search, constructive algorithms, data structures, greedy
+
+[1373E. Sum of Digits](https://codeforces.com/problemset/problem/1373/E) (\*2200)
+tags: brute force, constructive algorithms, dp, greedy
+
+[1368E. Ski Accidents](https://codeforces.com/problemset/problem/1368/E) (\*2500)
+tags: constructive algorithms, graphs, greedy
+
+[1361C. Johnny and Megan's Necklace](https://codeforces.com/problemset/problem/1361/C) (\*2500)
+tags: binary search, bitmasks, constructive algorithms, dfs and similar, dsu, graphs
+
+[1358E. Are You Fired?](https://codeforces.com/problemset/problem/1358/E) (\*2400)
+tags: constructive algorithms, data structures, greedy, implementation
+
+[1354F. Summoning Minions](https://codeforces.com/problemset/problem/1354/F) (\*2500)
+tags: constructive algorithms, dp, flows, graph matchings, greedy, sortings
+
+[1343F. Restore the Permutation by Sorted Segments](https://codeforces.com/problemset/problem/1343/F) (\*2400)
+tags: brute force, constructive algorithms, data structures, greedy, implementation
+
+[1338C. Perfect Triples](https://codeforces.com/problemset/problem/1338/C) (\*2200)
+tags: bitmasks, brute force, constructive algorithms, divide and conquer, math
+
+[1333E. Road to 1600](https://codeforces.com/problemset/problem/1333/E) (\*2400)
+tags: brute force, constructive algorithms
+
+[1329C. Drazil Likes Heap](https://codeforces.com/problemset/problem/1329/C) (\*2400)
+tags: constructive algorithms, data structures, greedy, implementation
+
+[1325F. Ehab's Last Theorem](https://codeforces.com/problemset/problem/1325/F) (\*2500)
+tags: constructive algorithms, dfs and similar, graphs, greedy
+
+[1311E. Construct the Binary Tree](https://codeforces.com/problemset/problem/1311/E) (\*2200)
+tags: brute force, constructive algorithms, trees
+
+[1305E. Kuroni and the Score Distribution](https://codeforces.com/problemset/problem/1305/E) (\*2200)
+tags: constructive algorithms, greedy, implementation, math
+
+[1286C1. Madhouse (Easy version)](https://codeforces.com/problemset/problem/1286/C1) (\*2400)
+tags: brute force, constructive algorithms, interactive, math
+
+[1285E. Delete a Segment](https://codeforces.com/problemset/problem/1285/E) (\*2300)
+tags: brute force, constructive algorithms, data structures, dp, graphs, sortings, trees, two pointers
+
+[1283F. DIY Garland](https://codeforces.com/problemset/problem/1283/F) (\*2200)
+tags: constructive algorithms, greedy, trees
+
+[1282E. The Cake Is a Lie](https://codeforces.com/problemset/problem/1282/E) (\*2400)
+tags: constructive algorithms, data structures, dfs and similar, graphs
+
+[1282D. Enchanted Artifact](https://codeforces.com/problemset/problem/1282/D) (\*2300)
+tags: constructive algorithms, interactive, strings
+
+[1278E. Tests for problem D](https://codeforces.com/problemset/problem/1278/E) (\*2200)
+tags: constructive algorithms, dfs and similar, divide and conquer, trees
+
+[1276C. Beautiful Rectangle](https://codeforces.com/problemset/problem/1276/C) (\*2300)
+tags: brute force, combinatorics, constructive algorithms, data structures, greedy, math
+
+[1270E. Divide Points](https://codeforces.com/problemset/problem/1270/E) (\*2300)
+tags: constructive algorithms, geometry, math
+
+[1254C. Point Ordering](https://codeforces.com/problemset/problem/1254/C) (\*2300)
+tags: constructive algorithms, geometry, interactive, math
+
+[1250M. SmartGarden](https://codeforces.com/problemset/problem/1250/M) (\*2500)
+tags: constructive algorithms, divide and conquer
+
+[1244G. Running in Pairs](https://codeforces.com/problemset/problem/1244/G) (\*2400)
+tags: constructive algorithms, greedy, math
+
+[1244F. Chips](https://codeforces.com/problemset/problem/1244/F) (\*2300)
+tags: constructive algorithms, implementation
+
+[1231E. Middle-Out](https://codeforces.com/problemset/problem/1231/E) (\*2200)
+tags: constructive algorithms, greedy, strings
+
+[1228F. One Node is Gone](https://codeforces.com/problemset/problem/1228/F) (\*2500)
+tags: constructive algorithms, implementation, trees
+
+[1225F. Tree Factory](https://codeforces.com/problemset/problem/1225/F) (\*2500)
+tags: constructive algorithms, greedy, trees
+
+[1196F. K-th Path](https://codeforces.com/problemset/problem/1196/F) (\*2200)
+tags: brute force, constructive algorithms, shortest paths, sortings
+
+[1188A2. Add on a Tree: Revolution](https://codeforces.com/problemset/problem/1188/A2) (\*2500)
+tags: constructive algorithms, dfs and similar, implementation, trees
+
+[1182D. Complete Mirror](https://codeforces.com/problemset/problem/1182/D) (\*2400)
+tags: constructive algorithms, dfs and similar, dp, hashing, implementation, trees
+
+[1174F. Ehab and the Big Finale](https://codeforces.com/problemset/problem/1174/F) (\*2400)
+tags: constructive algorithms, divide and conquer, graphs, implementation, interactive, trees
+
+[1163E. Magical Permutation](https://codeforces.com/problemset/problem/1163/E) (\*2400)
+tags: bitmasks, brute force, constructive algorithms, data structures, graphs, math
+
+[1158B. The minimal unique substring](https://codeforces.com/problemset/problem/1158/B) (\*2200)
+tags: constructive algorithms, math, strings
+
+[1157G. Inverse of Rows and Columns](https://codeforces.com/problemset/problem/1157/G) (\*2200)
+tags: brute force, constructive algorithms
+
+[1152E. Neko and Flashback](https://codeforces.com/problemset/problem/1152/E) (\*2400)
+tags: constructive algorithms, dfs and similar, graphs
+
+[1148E. Earth Wind and Fire](https://codeforces.com/problemset/problem/1148/E) (\*2300)
+tags: constructive algorithms, greedy, math, sortings, two pointers
+
+[1137D. Cooperative Game](https://codeforces.com/problemset/problem/1137/D) (\*2400)
+tags: constructive algorithms, interactive, number theory
+
+[1117E. Decypher the String](https://codeforces.com/problemset/problem/1117/E) (\*2200)
+tags: bitmasks, chinese remainder theorem, constructive algorithms, interactive, math
+
+[1110E. Magic Stones](https://codeforces.com/problemset/problem/1110/E) (\*2200)
+tags: constructive algorithms, math, sortings
+
+[1107G. Vasya and Maximum Profit](https://codeforces.com/problemset/problem/1107/G) (\*2400)
+tags: binary search, constructive algorithms, data structures, dp, dsu
+
+[1100D. Dasha and Chess](https://codeforces.com/problemset/problem/1100/D) (\*2500)
+tags: constructive algorithms, games, interactive
+
+[1098C. Construct a tree](https://codeforces.com/problemset/problem/1098/C) (\*2400)
+tags: binary search, constructive algorithms, dfs and similar, graphs, greedy, trees
+
+[1090C. New Year Presents](https://codeforces.com/problemset/problem/1090/C) (\*2400)
+tags: constructive algorithms, data structures
+
+[1089M. Minegraphed](https://codeforces.com/problemset/problem/1089/M) (\*2400)
+tags: constructive algorithms, graphs
+
+[1054E. Chips Puzzle](https://codeforces.com/problemset/problem/1054/E) (\*2400)
+tags: constructive algorithms, implementation, math
+
+[1039A. Timetable](https://codeforces.com/problemset/problem/1039/A) (\*2300)
+tags: constructive algorithms, data structures, greedy, math
+
+[1034B. Little C Loves 3 II](https://codeforces.com/problemset/problem/1034/B) (\*2200)
+tags: brute force, constructive algorithms, flows, graph matchings
+
+[1028E. Restore Array](https://codeforces.com/problemset/problem/1028/E) (\*2400)
+tags: constructive algorithms
+
+[1004D. Sonya and Matrix](https://codeforces.com/problemset/problem/1004/D) (\*2300)
+tags: brute force, constructive algorithms, implementation
+
+[976D. Degree Set](https://codeforces.com/problemset/problem/976/D) (\*2500)
+tags: constructive algorithms, graphs, implementation
+
+[962E. Byteland, Berland and Disputed Cities](https://codeforces.com/problemset/problem/962/E) (\*2200)
+tags: constructive algorithms, greedy
+
+[952G. Puzzling Language](https://codeforces.com/problemset/problem/952/G) (\*2200)
+tags: constructive algorithms
+
+[936C. Lock Puzzle](https://codeforces.com/problemset/problem/936/C) (\*2300)
+tags: constructive algorithms, implementation, strings
+
+[925C. Big Secret](https://codeforces.com/problemset/problem/925/C) (\*2200)
+tags: constructive algorithms, math
+
+[923D. Picking Strings](https://codeforces.com/problemset/problem/923/D) (\*2500)
+tags: constructive algorithms, implementation, strings
+
+[922F. Divisibility](https://codeforces.com/problemset/problem/922/F) (\*2400)
+tags: constructive algorithms, dp, greedy, number theory
+
+[911F. Tree Destruction](https://codeforces.com/problemset/problem/911/F) (\*2400)
+tags: constructive algorithms, dfs and similar, graphs, greedy, trees
+
+[909F. AND-permutations](https://codeforces.com/problemset/problem/909/F) (\*2500)
+tags: constructive algorithms
+
+[906B. Seating of Students](https://codeforces.com/problemset/problem/906/B) (\*2200)
+tags: brute force, constructive algorithms, math
+
+[901B. GCD of Polynomials](https://codeforces.com/problemset/problem/901/B) (\*2200)
+tags: constructive algorithms, math
+
+[888G. Xor-MST](https://codeforces.com/problemset/problem/888/G) (\*2300)
+tags: bitmasks, constructive algorithms, data structures
+
+[883J. Renovation](https://codeforces.com/problemset/problem/883/J) (\*2400)
+tags: constructive algorithms, greedy, sortings
+
+[865D. Buy Low Sell High](https://codeforces.com/problemset/problem/865/D) (\*2400)
+tags: constructive algorithms, data structures, greedy
+
+[858F. Wizard's Tour](https://codeforces.com/problemset/problem/858/F) (\*2300)
+tags: constructive algorithms, dfs and similar, graphs
+
+[847L. Berland SU Computer Network](https://codeforces.com/problemset/problem/847/L) (\*2400)
+tags: constructive algorithms, dfs and similar, graphs, hashing, trees
+
+[847D. Dog Show](https://codeforces.com/problemset/problem/847/D) (\*2200)
+tags: constructive algorithms, data structures, greedy
+
+[835E. The penguin's game](https://codeforces.com/problemset/problem/835/E) (\*2400)
+tags: binary search, constructive algorithms, interactive
+
+[822F. Madness](https://codeforces.com/problemset/problem/822/F) (\*2500)
+tags: constructive algorithms, dfs and similar, trees
+
+[815B. Karen and Test](https://codeforces.com/problemset/problem/815/B) (\*2200)
+tags: brute force, combinatorics, constructive algorithms, math
+
+[804C. Ice cream coloring](https://codeforces.com/problemset/problem/804/C) (\*2200)
+tags: constructive algorithms, dfs and similar, greedy
+
+[802H. Fake News (medium)](https://codeforces.com/problemset/problem/802/H) (\*2200)
+tags: constructive algorithms, strings
+
+[798D. Mike and distribution](https://codeforces.com/problemset/problem/798/D) (\*2400)
+tags: constructive algorithms, sortings
+
+[774H. Repairing Of String](https://codeforces.com/problemset/problem/774/H) (\*2200)
+tags: *special problem, constructive algorithms
+
+[773C. Prairie Partition](https://codeforces.com/problemset/problem/773/C) (\*2200)
+tags: binary search, constructive algorithms, greedy, math
+
+[772C. Vulnerable Kerbals](https://codeforces.com/problemset/problem/772/C) (\*2300)
+tags: constructive algorithms, dp, graphs, math, number theory
+
+[755E. PolandBall and White-Red graph](https://codeforces.com/problemset/problem/755/E) (\*2400)
+tags: constructive algorithms, graphs, shortest paths
+
+[754C. Vladik and chat](https://codeforces.com/problemset/problem/754/C) (\*2200)
+tags: brute force, constructive algorithms, dp, implementation, strings
+
+[753C. Interactive Bulls and Cows (Hard)](https://codeforces.com/problemset/problem/753/C) (\*2500)
+tags: brute force, constructive algorithms, interactive
+
+[748F. Santa Clauses and a Soccer Championship](https://codeforces.com/problemset/problem/748/F) (\*2300)
+tags: constructive algorithms, dfs and similar, graphs, trees
+
+[734F. Anton and School](https://codeforces.com/problemset/problem/734/F) (\*2500)
+tags: bitmasks, constructive algorithms, implementation, math
+
+[733E. Sleep in Class](https://codeforces.com/problemset/problem/733/E) (\*2400)
+tags: constructive algorithms, data structures, math, two pointers
+
+[723E. One-Way Reform](https://codeforces.com/problemset/problem/723/E) (\*2200)
+tags: constructive algorithms, dfs and similar, flows, graphs, greedy
+
+[715B. Complete The Graph](https://codeforces.com/problemset/problem/715/B) (\*2300)
+tags: binary search, constructive algorithms, graphs, shortest paths
+
+[713B. Searching Rectangles](https://codeforces.com/problemset/problem/713/B) (\*2200)
+tags: binary search, constructive algorithms, interactive
+
+[670F. Restore a Number](https://codeforces.com/problemset/problem/670/F) (\*2300)
+tags: brute force, constructive algorithms, strings
+
+[633E. Startup Funding](https://codeforces.com/problemset/problem/633/E) (\*2400)
+tags: binary search, constructive algorithms, data structures, probabilities, two pointers
+
+[625D. Finals in arithmetic](https://codeforces.com/problemset/problem/625/D) (\*2400)
+tags: constructive algorithms, implementation, math
+
+[621D. Rat Kwesh and Cheese](https://codeforces.com/problemset/problem/621/D) (\*2400)
+tags: brute force, constructive algorithms, math
+
+[613C. Necklace](https://codeforces.com/problemset/problem/613/C) (\*2500)
+tags: constructive algorithms, math
+
+[612E. Square Root of Permutation](https://codeforces.com/problemset/problem/612/E) (\*2200)
+tags: combinatorics, constructive algorithms, dfs and similar, graphs, math
+
+[610D. Vika and Segments](https://codeforces.com/problemset/problem/610/D) (\*2300)
+tags: constructive algorithms, data structures, geometry, two pointers
+
+[593C. Beautiful Function](https://codeforces.com/problemset/problem/593/C) (\*2200)
+tags: constructive algorithms, math
+
+[584E. Anton and Ira](https://codeforces.com/problemset/problem/584/E) (\*2300)
+tags: constructive algorithms, greedy, math
+
+[573C. Bear and Drawing](https://codeforces.com/problemset/problem/573/C) (\*2300)
+tags: constructive algorithms, dfs and similar, trees
+
+[571C. CNF 2](https://codeforces.com/problemset/problem/571/C) (\*2500)
+tags: constructive algorithms, dfs and similar, graphs, greedy
+
+[570D. Tree Requests](https://codeforces.com/problemset/problem/570/D) (\*2200)
+tags: binary search, bitmasks, constructive algorithms, dfs and similar, graphs, trees
+
+[550E. Brackets in Implications](https://codeforces.com/problemset/problem/550/E) (\*2200)
+tags: constructive algorithms, greedy, implementation, math
+
+[549G. Happy Line](https://codeforces.com/problemset/problem/549/G) (\*2200)
+tags: constructive algorithms, greedy, sortings
+
+[549B. Looksery Party](https://codeforces.com/problemset/problem/549/B) (\*2300)
+tags: constructive algorithms, dfs and similar, graphs, greedy
+
+[534E. Berland Local Positioning System](https://codeforces.com/problemset/problem/534/E) (\*2400)
+tags: constructive algorithms, greedy, hashing, implementation
+
+[525D. Arthur and Walls](https://codeforces.com/problemset/problem/525/D) (\*2400)
+tags: constructive algorithms, data structures, graphs, greedy, shortest paths
+
+[509D. Restoring Numbers](https://codeforces.com/problemset/problem/509/D) (\*2200)
+tags: constructive algorithms, math
+
+[487C. Prefix Product Sequence](https://codeforces.com/problemset/problem/487/C) (\*2300)
+tags: constructive algorithms, math, number theory
+
+[484E. Sign on Fence](https://codeforces.com/problemset/problem/484/E) (\*2500)
+tags: binary search, constructive algorithms, data structures
+
+[468C. Hack it!](https://codeforces.com/problemset/problem/468/C) (\*2500)
+tags: binary search, constructive algorithms, math
+
+[460D. Little Victor and Set](https://codeforces.com/problemset/problem/460/D) (\*2300)
+tags: brute force, constructive algorithms, math
+
+[453C. Little Pony and Summer Sun Celebration](https://codeforces.com/problemset/problem/453/C) (\*2200)
+tags: constructive algorithms, dfs and similar, graphs
+
+[449C. Jzzhu and Apples](https://codeforces.com/problemset/problem/449/C) (\*2500)
+tags: constructive algorithms, number theory
+
+[432E. Square Tiling](https://codeforces.com/problemset/problem/432/E) (\*2300)
+tags: constructive algorithms, greedy
+
+[429C. Guess the Tree](https://codeforces.com/problemset/problem/429/C) (\*2300)
+tags: bitmasks, constructive algorithms, dp, greedy, trees
+
+[424D. Biathlon Track](https://codeforces.com/problemset/problem/424/D) (\*2300)
+tags: binary search, brute force, constructive algorithms, data structures, dp
+
+[417E. Square Table](https://codeforces.com/problemset/problem/417/E) (\*2400)
+tags: constructive algorithms, math, probabilities
+
+[359E. Neatness](https://codeforces.com/problemset/problem/359/E) (\*2400)
+tags: constructive algorithms, dfs and similar
+
+[354E. Lucky Number Representation](https://codeforces.com/problemset/problem/354/E) (\*2200)
+tags: constructive algorithms, dfs and similar, dp
+
+[350E. Wrong Floyd](https://codeforces.com/problemset/problem/350/E) (\*2200)
+tags: brute force, constructive algorithms, dfs and similar, graphs
+
+[329D. The Evil Temple and the Moving Rocks](https://codeforces.com/problemset/problem/329/D) (\*2500)
+tags: constructive algorithms
+
+[329C. Graph Reconstruction](https://codeforces.com/problemset/problem/329/C) (\*2400)
+tags: constructive algorithms
+
+[327E. Axis Walking](https://codeforces.com/problemset/problem/327/E) (\*2300)
+tags: bitmasks, combinatorics, constructive algorithms, dp, meet-in-the-middle
+
+[323B. Tournament-graph](https://codeforces.com/problemset/problem/323/B) (\*2200)
+tags: constructive algorithms, graphs
+
+[317C. Balance](https://codeforces.com/problemset/problem/317/C) (\*2500)
+tags: constructive algorithms, dfs and similar, graphs, trees
+
+[316F3. Suns and Rays](https://codeforces.com/problemset/problem/316/F3) (\*2200)
+tags: constructive algorithms, dfs and similar, implementation
+
+[313E. Ilya and Two Numbers](https://codeforces.com/problemset/problem/313/E) (\*2300)
+tags: constructive algorithms, data structures, dsu, greedy
+
+[306D. Polygon](https://codeforces.com/problemset/problem/306/D) (\*2300)
+tags: constructive algorithms, geometry
+
+[301C. Yaroslav and Algorithm](https://codeforces.com/problemset/problem/301/C) (\*2500)
+tags: constructive algorithms
+
+[297D. Color the Carpet](https://codeforces.com/problemset/problem/297/D) (\*2500)
+tags: constructive algorithms
+
+[297C. Splitting the Uniqueness](https://codeforces.com/problemset/problem/297/C) (\*2400)
+tags: constructive algorithms
+
+[290E. HQ](https://codeforces.com/problemset/problem/290/E) (\*2500)
+tags: *special problem, constructive algorithms
+
+[277B. Set of Points](https://codeforces.com/problemset/problem/277/B) (\*2300)
+tags: constructive algorithms, geometry
+
+[272E. Dima and Horses](https://codeforces.com/problemset/problem/272/E) (\*2200)
+tags: combinatorics, constructive algorithms, graphs
+
+[271E. Three Horses](https://codeforces.com/problemset/problem/271/E) (\*2200)
+tags: constructive algorithms, math, number theory
+
+[213D. Stars](https://codeforces.com/problemset/problem/213/D) (\*2300)
+tags: constructive algorithms, geometry
+
+[209C. Trails and Glades](https://codeforces.com/problemset/problem/209/C) (\*2400)
+tags: constructive algorithms, dsu, graphs, greedy
+
+[196C. Paint Tree](https://codeforces.com/problemset/problem/196/C) (\*2200)
+tags: constructive algorithms, divide and conquer, geometry, sortings, trees
+
+[193C. Hamming Distance](https://codeforces.com/problemset/problem/193/C) (\*2400)
+tags: constructive algorithms, greedy, math, matrices
+
+[173D. Deputies](https://codeforces.com/problemset/problem/173/D) (\*2500)
+tags: constructive algorithms, graphs, greedy, implementation
+
+[141E. Clearing Up](https://codeforces.com/problemset/problem/141/E) (\*2300)
+tags: constructive algorithms, dp, dsu, graphs
+
+[134C. Swaps](https://codeforces.com/problemset/problem/134/C) (\*2200)
+tags: constructive algorithms, graphs, greedy
+
+[125D. Two progressions](https://codeforces.com/problemset/problem/125/D) (\*2200)
+tags: constructive algorithms, greedy
+
+[98D. Help Monks](https://codeforces.com/problemset/problem/98/D) (\*2500)
+tags: constructive algorithms
+
+[97B. Superset](https://codeforces.com/problemset/problem/97/B) (\*2300)
+tags: constructive algorithms, divide and conquer
+
+[86B. Tetris revisited](https://codeforces.com/problemset/problem/86/B) (\*2200)
+tags: constructive algorithms, graph matchings, greedy, math
+
+[42D. Strange town](https://codeforces.com/problemset/problem/42/D) (\*2300)
+tags: constructive algorithms, math
+
+[42C. Safe cracking](https://codeforces.com/problemset/problem/42/C) (\*2200)
+tags: brute force, constructive algorithms
+
+[26E. Multithreading](https://codeforces.com/problemset/problem/26/E) (\*2400)
+tags: constructive algorithms
+
+[23C. Oranges and Apples](https://codeforces.com/problemset/problem/23/C) (\*2500)
+tags: constructive algorithms, sortings
+

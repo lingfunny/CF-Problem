@@ -26,19 +26,11 @@ def TagT(href):
 
 dic = {}
 
-lst = None
-
 for page in range(1, 114514):
     url_ = re.sub("/[0-9]+", '/' + str(page), url)
     print("url: %s" % url_)
-    newcontent = requests.get(url_).text
+    soup = BeautifulSoup(requests.get(url_).text, 'lxml')
     print("Got!")
-    if newcontent == lst:
-        print("finished")
-        system("pause")
-        exit()
-    else: lst = newcontent
-    soup = BeautifulSoup(newcontent, 'lxml')
     for tag in soup.find_all(name = "tr"):
         # print(tag.prettify())
         s = tag.text
@@ -59,8 +51,8 @@ for page in range(1, 114514):
             print("finished")
             system("pause")
             exit()
-        print("ID: %s" % ID)
-        NAME = re.sub("\s*", "", links[1].text)
+        NAME = " ".join(re.findall("\S+", links[1].text))
+        print("Problem: %s. %s" % (ID, NAME))
         span = re.sub("\s*", "", tag.find_all(TitleF)[0].text)
         tags = []
         for tg in tag.find_all(name = "a", href = TagT):
@@ -69,6 +61,5 @@ for page in range(1, 114514):
         dic[ID] = 1
 
     del soup
-    del newcontent
 
 f.close()
